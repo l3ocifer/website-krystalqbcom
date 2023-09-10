@@ -1,0 +1,13 @@
+    # React
+    krystalqbcom/node_modules/
+    krystalqbcom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
